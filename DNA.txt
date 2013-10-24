@@ -1,0 +1,4 @@
+DNA resequencing
+================
+
+You need a reference genome to align your resequencing data.
