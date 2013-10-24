@@ -4,3 +4,5 @@ DNA resequencing
 You need a reference genome to align your resequencing data.
 
 You need to index your reference genome.
+
+The indexed refernce is 1 file.
