@@ -10,5 +10,5 @@ You need to index your reference genome.
 You can use samtools to align your reads to the reference.
 
 
-
+MISTAKE
 
